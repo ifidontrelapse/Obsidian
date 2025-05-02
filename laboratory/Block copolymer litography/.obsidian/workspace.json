@@ -1,0 +1,320 @@
+{
+  "main": {
+    "id": "1a44dc34d62450fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f7814197694bff6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42080f3aa87d4787",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Additional/Raman spectroscopy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Raman spectroscopy"
+            }
+          },
+          {
+            "id": "c18d490580a3110d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Additional/Surface Enhanced Raman Scattering.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Surface Enhanced Raman Scattering"
+            }
+          },
+          {
+            "id": "e78aaf6cc6745022",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Additional/DLS (Dynamic Light Scattering).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DLS (Dynamic Light Scattering)"
+            }
+          },
+          {
+            "id": "65cbd84d27f2b42b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Additional/Electrophoresis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Electrophoresis"
+            }
+          },
+          {
+            "id": "4d8dec7f77c39029",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "cd25c5e31a462e5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Applications.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Applications"
+            }
+          },
+          {
+            "id": "5cae0694f012b073",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Analytical methods.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Analytical methods"
+            }
+          },
+          {
+            "id": "755320137887d12e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Analytical methods.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Analytical methods"
+            }
+          },
+          {
+            "id": "f2bd5ca9b5b1ef15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Analytical methods.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Analytical methods"
+            }
+          },
+          {
+            "id": "0294846689436c9e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "47397db68a3feab5",
+    "type": "split",
+    "children": [
+      {
+        "id": "64b0bf0647b6d0cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c85426166f184c6d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0c3615b66ffb41b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c100214af3e4e93b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "741d924a0256b2c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "274f40e232717517",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a27c6137ed88711",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "60b64c124d5a0bd4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "8108c74c1ec03009",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9dab7db1785fe767",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0294846689436c9e",
+  "lastOpenFiles": [
+    "Main/Analytical methods.md",
+    "Main/Applications.md",
+    "Additional/SEM.md",
+    "Additional/UV-spectroscopy.md",
+    "Additional/AFM.md",
+    "Additional/DLS (Dynamic Light Scattering).md",
+    "Additional/Surface Enhanced Raman Scattering.md",
+    "Additional/Electrophoresis.md",
+    "Additional/Types of scattering.md",
+    "Additional/Z-value.md",
+    "Additional/Raman spectroscopy.md",
+    "Additional/Compton effect.md",
+    "Pasted image 20250502035958.png",
+    "Pasted image 20250502035738.png",
+    "Pasted image 20250502035547.png",
+    "Pasted image 20250502033616.png",
+    "Pasted image 20250502033219.png",
+    "Pasted image 20250502032920.png",
+    "Pasted image 20250502032524.png",
+    "Pasted image 20250502032319.png",
+    "Pasted image 20250502032215.png",
+    "Pasted image 20250502031858.png",
+    "Untitled",
+    "Articles/DOI.md",
+    "Articles",
+    "Pictures/Unt.md",
+    "Welcome.md",
+    "Additional",
+    "Main",
+    "Pictures"
+  ]
+}
