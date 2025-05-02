@@ -138,9 +138,65 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "7ff5c269f129196d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pictures/Pasted image 20250502031858.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250502031858"
+            }
+          },
+          {
+            "id": "99430c96c82a201d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pictures/Pasted image 20250502030231.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250502030231"
+            }
+          },
+          {
+            "id": "4369e54c1114abce",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pictures/Pasted image 20250502032319.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250502032319"
+            }
+          },
+          {
+            "id": "0d6e67ac1b453984",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "5c99ec5d22843fcd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -284,32 +340,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0294846689436c9e",
+  "active": "5c99ec5d22843fcd",
   "lastOpenFiles": [
-    "Main/Analytical methods.md",
+    "Main/Article.md",
     "Main/Applications.md",
+    "Main/Lab notebook.md",
+    "Main/Analytical methods.md",
+    "Pictures/Pasted image 20250502032319.png",
+    "Lab notebook",
+    "Pictures/Pasted image 20250502032920.png",
+    "Pictures/Pasted image 20250502030231.png",
+    "Pictures/Pasted image 20250502031858.png",
+    "Pictures/Pasted image 20250502161711.png",
+    "Pictures/Pasted image 20250502161546.png",
+    "Pictures/Pasted image 20250502033616.png",
+    "Additional/Z-potential.md",
+    "Additional/DLS (Dynamic Light Scattering).md",
+    "Pictures/Pasted image 20250502163645.png",
+    "Additional/LDE or ELS.md",
+    "Additional/Electrophoresis.md",
+    "Pictures/Pasted image 20250502163143.png",
+    "Pictures/Pasted image 20250502162633.png",
+    "Articles/DOI.md",
+    "Untitled 1",
     "Additional/SEM.md",
     "Additional/UV-spectroscopy.md",
     "Additional/AFM.md",
-    "Additional/DLS (Dynamic Light Scattering).md",
     "Additional/Surface Enhanced Raman Scattering.md",
-    "Additional/Electrophoresis.md",
     "Additional/Types of scattering.md",
-    "Additional/Z-value.md",
     "Additional/Raman spectroscopy.md",
     "Additional/Compton effect.md",
-    "Pasted image 20250502035958.png",
-    "Pasted image 20250502035738.png",
-    "Pasted image 20250502035547.png",
-    "Pasted image 20250502033616.png",
-    "Pasted image 20250502033219.png",
-    "Pasted image 20250502032920.png",
-    "Pasted image 20250502032524.png",
-    "Pasted image 20250502032319.png",
-    "Pasted image 20250502032215.png",
-    "Pasted image 20250502031858.png",
-    "Untitled",
-    "Articles/DOI.md",
     "Articles",
     "Pictures/Unt.md",
     "Welcome.md",
