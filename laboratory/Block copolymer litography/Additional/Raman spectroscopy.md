@@ -59,6 +59,6 @@ $$
 - Любые вещества и материалы, в том числе и газы
 - Картирование образцов с латеральным разрешением 1 мкм (пятно лазера)
 
-tags: #Raman #SERS #Compton
+tags: #method 
 [[Surface Enhanced Raman Scattering]]
 [[Compton effect]]

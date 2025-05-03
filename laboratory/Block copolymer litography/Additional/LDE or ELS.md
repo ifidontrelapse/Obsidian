@@ -27,6 +27,6 @@ Electrophoretic Light Scattering
 
 
 
-Tags: #DLS #Z-value 
+Tags: #method 
 [[Electrophoresis]]
 [[Z-potential]]

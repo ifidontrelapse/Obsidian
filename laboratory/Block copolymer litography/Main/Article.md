@@ -5,6 +5,12 @@
 
 ***
 Tags: 
+***
+Connections:
 [[Analytical methods]]
 [[Lab notebook]]
 [[Applications]]
+[[DOI]]
+[[Methodical part]]
+
+
