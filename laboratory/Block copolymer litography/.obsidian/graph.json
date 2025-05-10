@@ -8,21 +8,21 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "file:Article",
+      "query": "tag:#Article  ",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "tag: #Article  ",
+      "query": "tag:#Main  ",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "tag: #method  ",
+      "query": "tag:#method  ",
       "color": {
         "a": 1,
         "rgb": 11657298
@@ -35,10 +35,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.147804054054054,
-  "repelStrength": 7.50519750519751,
-  "linkStrength": 0.995257276507277,
-  "linkDistance": 251,
-  "scale": 0.5722582022438655,
-  "close": false
+  "centerStrength": 0.380392411642412,
+  "repelStrength": 10.3664241164241,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.39469728970350393,
+  "close": true
 }

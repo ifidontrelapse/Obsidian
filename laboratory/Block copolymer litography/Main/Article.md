@@ -4,7 +4,7 @@
 
 
 ***
-Tags: 
+Tags: #Article 
 ***
 Connections:
 [[Analytical methods]]
@@ -12,5 +12,4 @@ Connections:
 [[Applications]]
 [[DOI]]
 [[Methodical part]]
-
-
+[[Classification of nanoparticles]]
